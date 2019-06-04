@@ -13,9 +13,9 @@ nav:
   分類: '/series.html'
   標籤: '/tags.html'
   關於: '/about.html'
-  #个人简历: '/resume/index.html'
-  #友情链接: '/friendLink.html'
-  #同步更新: 'https://xukim777.github.io/'
+  个人简历: '/resume/index.html'
+  友情链接: '/friendLink.html'
+  同步更新: 'https://xukim777.github.io/'
 
 # Footer
 footer:
