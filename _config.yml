@@ -35,15 +35,15 @@ nightMode: true
 
 # disqus 评论
 disqus: false
-disqus_url: 'https://xukimseven.disqus.com/embed.js'
+disqus_url: ''
 
 #来必力 评论
-livere: true
+livere: false
 livere_uid: MTAyMC8zNDI2OS8xMDgwNg==
 
 # Reward 赞赏功能 by Ray-Eldath
 reward:
-  enable: true
+  enable: false
   reward_comment: ''
   wechatpay: '../../../assets/scan/wechatpay.jpg'
   alipay: '../../../assets/scan/alipay.jpg'
