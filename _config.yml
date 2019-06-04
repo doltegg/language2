@@ -2,10 +2,10 @@
 title: egg's notes
 description: The notes of egg's program language.
 keyword: Python, JavaScript, Excel VBA,
-url: "https://doltegg.github.io/language2" # your host
+url: "https://doltegg.github.io" # your host
 
 # if you don't need baseurl, you should leave this value blank.
-baseurl: ""
+baseurl: "/language2"
 
 # Navigation links
 nav:
